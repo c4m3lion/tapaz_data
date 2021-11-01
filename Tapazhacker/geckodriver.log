@@ -1,0 +1,624 @@
+1635746427671	geckodriver	INFO	Listening on 127.0.0.1:59612
+1635746430734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59613" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileu0KVTA"
+1635746431070	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileu0KVTA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59613/devtools/browser/68cb7a3a-9b76-4761-82a6-dff36f020adf
+1635746433002	Marionette	INFO	Listening on port 59618
+1635746433435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635746463220	Marionette	INFO	Stopped listening on port 59618
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635751352616	geckodriver	INFO	Listening on 127.0.0.1:53454
+1635751355730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53455" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilerSjs9y"
+1635751356083	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilerSjs9y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53455/devtools/browser/99d3bf8f-4546-4744-a87d-f7666641dd85
+1635751358221	Marionette	INFO	Listening on port 53460
+1635751358486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635751463674	Marionette	INFO	Stopped listening on port 53460
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+vr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635751475617	Marionette	INFO	Stopped listening on port 53597
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635751543175	geckodriver	INFO	Listening on 127.0.0.1:53735
+1635751546233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53736" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilerfVeiX"
+1635751546753	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilerfVeiX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53736/devtools/browser/ffbcfff8-3c33-45ff-91e8-b40b9c5fd829
+1635751548592	Marionette	INFO	Listening on port 53741
+1635751548659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635751707381	Marionette	INFO	Stopped listening on port 53741
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilea4PVGE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58348/devtools/browser/8ef03779-6707-44ae-9751-6acadaf7e335
+1635751659868	Marionette	INFO	Listening on port 58353
+1635751659920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635751708429	Marionette	INFO	Stopped listening on port 58353
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileWqAAEj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58455/devtools/browser/15c3dc44-778b-4b4c-b356-a05b2c9f0147
+1635751689645	Marionette	INFO	Listening on port 58460
+1635751690025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635751704617	Marionette	INFO	Stopped listening on port 58460
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1635751748046	geckodriver	INFO	Listening on 127.0.0.1:58561
+1635751751129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58562" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileC9Y5vy"
+1635751751432	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileC9Y5vy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58562/devtools/browser/b02b8171-2b8a-4161-b6b6-3908b78f6cc6
+1635751753525	Marionette	INFO	Listening on port 58569
+1635751753787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 712, MediaDecoderStateMachine #1] WARNING: Decoder=2751aa07c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - auto __cdecl mozilla::SupportChecker::AddMediaFormatChecker(const mozilla::TrackInfo &)::(anonymous class)::operator()(void) const: Decoder may not have the capability to handle the requested video format with YUV444 chroma subsampling.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3541
+1635751816607	Marionette	INFO	Stopped listening on port 58569
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635751953031	geckodriver	INFO	Listening on 127.0.0.1:58812
+1635751956079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58813" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileHc9s1r"
+1635751956382	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileHc9s1r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58813/devtools/browser/fea5ab9e-f053-4128-9da4-6a4c296b8751
+1635751958206	Marionette	INFO	Listening on port 58818
+1635751958263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635752022558	Marionette	INFO	Stopped listening on port 58818
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attemptingconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilej8X2ob\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58927/devtools/browser/dc18e3d0-4c8c-478e-91d6-83d283798f16
+1635752024512	Marionette	INFO	Listening on port 58932
+1635752024959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635752156113	Marionette	INFO	Stopped listening on port 58932
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofiledov3Ac\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59038/devtools/browser/e145e935-bc37-42f7-98ff-39d7f0ddf329
+1635752075492	Marionette	INFO	Listening on port 59045
+1635752075573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635752157214	Marionette	INFO	Stopped listening on port 59045
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635752187257	geckodriver	INFO	Listening on 127.0.0.1:59169
+1635752190323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59170" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilene2azw"
+1635752190602	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilene2azw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59170/devtools/browser/7ad4c4b8-4b7e-4bde-8c3e-4a0b31fd22b1
+1635752192430	Marionette	INFO	Listening on port 59175
+1635752192515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635752444936	Marionette	INFO	Stopped listening on port 59175
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileZwmCOb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59278/devtools/browser/24d103e9-5047-4e57-8e35-b4b9c5f6c7a4
+1635752251595	Marionette	INFO	Listening on port 59283
+1635752251995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635752269162	Marionette	INFO	Stopped listening on port 59283
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635752335257	geckodriver	INFO	Listening on 127.0.0.1:59380
+1635752338320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59381" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofiledfq9A8"
+1635752338601	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofiledfq9A8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59381/devtools/browser/ba19c983-8849-42ee-b1da-2a7530eaeda9
+1635752340439	Marionette	INFO	Listening on port 59386
+1635752340506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: WMF VPX decoder just crashed; hardware video will be disabled.
+[GFX1-]: WMF VPX video decoding is disabled due to a previous crash.
+1635752443861	Marionette	INFO	Stopped listening on port 59386
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+i\\AppData\\Local\\Temp\\rust_mozprofilextyVXo"
+1635752412712	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilextyVXo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59501/devtools/browser/eb7ae5ac-6165-4eed-b338-769c898b3ed6
+1635752414715	Marionette	INFO	Listening on port 59506
+1635752415051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635752437848	Marionette	INFO	Stopped listening on port 59506
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1635752672118	geckodriver	INFO	Listening on 127.0.0.1:59620
+1635752675169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59621" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileV0hb5S"
+1635752675747	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileV0hb5S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59621/devtools/browser/4700f19b-33c8-4692-b47e-98179adabe6b
+1635752677537	Marionette	INFO	Listening on port 59627
+1635752677587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635752745533	Marionette	INFO	Stopped listening on port 59627
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilecsDHiw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59719/devtools/browser/2f8938d6-fa49-4f80-8cf6-c2c826decc03
+1635752704869	Marionette	INFO	Listening on port 59724
+1635752705338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635752746654	Marionette	INFO	Stopped listening on port 59724
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635752885443	geckodriver	INFO	Listening on 127.0.0.1:59860
+1635752888485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59861" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileV2vXeY"
+1635752888767	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileV2vXeY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59861/devtools/browser/d7f037c6-200b-42c4-bf6e-3a971a4c6693
+1635752890653	Marionette	INFO	Listening on port 59866
+1635752890689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635752918579	Marionette	INFO	Stopped listening on port 59866
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635752999375	geckodriver	INFO	Listening on 127.0.0.1:59983
+1635753002444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59984" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilex1qmIL"
+1635753002741	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilex1qmIL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59984/devtools/browser/99a985d1-fc5e-4f3f-844a-84c4dfcec397
+1635753004469	Marionette	INFO	Listening on port 59989
+1635753004528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635753013560	Marionette	INFO	Stopped listening on port 59989
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635753042703	geckodriver	INFO	Listening on 127.0.0.1:60080
+1635753045761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60081" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilenSXBzH"
+1635753046042	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilenSXBzH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60081/devtools/browser/a385c3de-946f-4e74-bda4-37b80593aa85
+1635753048054	Marionette	INFO	Listening on port 60086
+1635753048460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635753058956	Marionette	INFO	Stopped listening on port 60086
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635753082655	geckodriver	INFO	Listening on 127.0.0.1:60198
+1635753085721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60199" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileYwPtVW"
+1635753085998	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileYwPtVW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60199/devtools/browser/284da2e3-cb19-4950-a8b7-6db723961f8f
+1635753087871	Marionette	INFO	Listening on port 60204
+1635753088399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635753140451	Marionette	INFO	Stopped listening on port 60204
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofiledNWg1q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60307/devtools/browser/14e66e24-e6f9-438a-88f2-2fd910f43b0f
+1635753125583	Marionette	INFO	Listening on port 60312
+1635753125681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635753136330	Marionette	INFO	Stopped listening on port 60312
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1635753178021	geckodriver	INFO	Listening on 127.0.0.1:60410
+1635753181097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60411" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilebFMsav"
+1635753181377	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilebFMsav\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60411/devtools/browser/24f98423-97c8-4775-8aef-fb7bc698d398
+1635753183190	Marionette	INFO	Listening on port 60416
+1635753183282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635753221743	Marionette	INFO	Stopped listening on port 60416
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilerOcETY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60513/devtools/browser/4863fa35-d369-48aa-bb70-82c128020b57
+1635753220016	Marionette	INFO	Listening on port 60518
+1635753220501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635753245189	Marionette	INFO	Stopped listening on port 60518
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635753274406	geckodriver	INFO	Listening on 127.0.0.1:60628
+1635753277437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60629" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileuAWq2i"
+1635753277731	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileuAWq2i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60629/devtools/browser/c3a806ac-75f0-42d7-a9ee-ebb3d350b716
+1635753279531	Marionette	INFO	Listening on port 60636
+1635753279608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635753467332	Marionette	INFO	Stopped listening on port 60636
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileTQk2OH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60766/devtools/browser/33987ba6-e62c-4834-b0d4-d8323bfe8cea
+1635753421738	Marionette	INFO	Listening on port 60772
+1635753421815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635753465846	Marionette	INFO	Stopped listening on port 60772
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofile5Kf2M8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60868/devtools/browser/90fa8869-ab53-42af-984f-2ebdd9bf9a31
+1635753454883	Marionette	INFO	Listening on port 60873
+1635753455398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635753480404	Marionette	INFO	Stopped listening on port 60873
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635753507286	geckodriver	INFO	Listening on 127.0.0.1:60977
+1635753510348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60978" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileyc1hym"
+1635753510631	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileyc1hym\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60978/devtools/browser/9a252137-b2e9-45ce-b77b-3a659ea5786e
+1635753512430	Marionette	INFO	Listening on port 60983
+1635753512514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635753531478	Marionette	INFO	Stopped listening on port 60983
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635753641575	geckodriver	INFO	Listening on 127.0.0.1:61093
+1635753644654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61094" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileZdqeb3"
+1635753644943	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileZdqeb3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61094/devtools/browser/7945ec1a-cfb0-4edc-8eb9-4dc0ef3d2aba
+1635753646757	Marionette	INFO	Listening on port 61100
+1635753646830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635753712587	Marionette	INFO	Stopped listening on port 61100
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileK6RtpR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61206/devtools/browser/d027195e-bfff-4a2a-af5c-598fe541d712
+1635753708538	Marionette	INFO	Listening on port 61212
+1635753708600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635753754433	Marionette	INFO	Stopped listening on port 61212
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+LS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635753949683	Marionette	INFO	Stopped listening on port 61323
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofile1YPcLv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61422/devtools/browser/150a5f15-9514-4d8c-ad0a-5e27604c235f
+1635753790651	Marionette	INFO	Listening on port 61427
+1635753790686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://tap.azstatic.com/assets/application-0c154c3516a6de8ba6600cc0f7e8a829a7ae4a0df06e23a4b79ea28e480a322c.css without a browsingContextID set
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635756156979	Marionette	INFO	Stopped listening on port 61427
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\Temp\\rust_mozprofilemEjGcU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61594/devtools/browser/593f4950-eede-4e70-94bd-ccdaa4e39f02
+1635754223144	Marionette	INFO	Listening on port 61600
+1635754223628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635754263965	Marionette	INFO	Stopped listening on port 61600
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635754273860	geckodriver	INFO	Listening on 127.0.0.1:61699
+1635754276923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61700" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileXE0XbW"
+1635754277205	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileXE0XbW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61700/devtools/browser/37ca84e9-0700-4e7c-9533-980c9583b8c7
+1635754279169	Marionette	INFO	Listening on port 61705
+1635754279587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635754333326	Marionette	INFO	Stopped listening on port 61705
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MJavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635754363047	Marionette	INFO	Stopped listening on port 61813
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MJavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635754977535	Marionette	INFO	Stopped listening on port 61914
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileayBQxO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58877/devtools/browser/1fa68cc8-5ebc-412e-9db0-6a81a82b9f70
+1635754941401	Marionette	INFO	Listening on port 58882
+1635754941737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635754976419	Marionette	INFO	Stopped listening on port 58882
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+_mozprofileVWmPE7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58971/devtools/browser/5edc5767-f24c-43aa-b478-639f9a61d38e
+1635754973398	Marionette	INFO	Listening on port 58976
+1635754973518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635755040032	Marionette	INFO	Stopped listening on port 58976
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+-0692-408b-a2dc-7acfded49e1d
+1635755037554	Marionette	INFO	Listening on port 59085
+1635755037664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635755062209	Marionette	INFO	Stopped listening on port 59085
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: ChJavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635755137143	Marionette	INFO	Stopped listening on port 59186
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofile0m5rht\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59293/devtools/browser/47910d4d-ee59-498b-9c3d-e7c53f7d4315
+1635755135528	Marionette	INFO	Listening on port 59298
+1635755136011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635755179678	Marionette	INFO	Stopped listening on port 59298
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635755242635	Marionette	INFO	Stopped listening on port 59402
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileDdqlSb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59504/devtools/browser/7451fbb5-4149-4985-9988-ec1c2398fe41
+1635755240381	Marionette	INFO	Listening on port 59511
+1635755240702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635755274066	Marionette	INFO	Stopped listening on port 59511
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+s listening on ws://localhost:56583/devtools/browser/af2d225f-7b6a-420d-9263-bc5e19b67d73
+1635755272478	Marionette	INFO	Listening on port 56588
+1635755272502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635755346664	Marionette	INFO	Stopped listening on port 56588
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+_mozprofileGJQlwy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56693/devtools/browser/eaafb527-57c3-492f-8c0d-9ae4030aa955
+1635755344076	Marionette	INFO	Listening on port 56698
+1635755344230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635755628953	Marionette	INFO	Stopped listening on port 56698
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [ParenJavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-NDWJDP, line 280: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635755731669	Marionette	INFO	Stopped listening on port 56852
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage]1635755777725	Marionette	INFO	Stopped listening on port 56967
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
